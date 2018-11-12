@@ -10,9 +10,7 @@
 
 ---
 
-BitcoinBlack's goal is to become _"a global currency with instantaneous transactions and zero fees over a secure, decentralized network."_
-
-We've applied the philosophy of _"do one thing and do it well"_, we are focused on building the best medium for value exchange in the world.
+BitcoinBlack is a community based currency focussed on a fair distribution _"fee free and instant transactions over a secure, decentralized network."_
 
 ---
 
@@ -20,14 +18,13 @@ We've applied the philosophy of _"do one thing and do it well"_, we are focused 
 
 * BitcoinBlack utilizes a novel [block-lattice](https://github.com/nanocurrency/raiblocks/wiki/Block-lattice) architecture, unlike conventional blockchains used in many other cryptocurrencies.
 * The network requires minimal resources, no high-power mining hardware, and can process high transaction throughput.
-* Offers instantaneous transactions with zero fees and unlimited scalability, making BitcoinBlack an ideal solution for peer-to-peer transactions.
-* As of August 2018, the BitcoinBlack network has processed over twelve million blocks with an unpruned ledger size of only 4.6GB.
+* Offers instantaneous transactions with zero fees and unlimited scalability, making Bitcoin Black an ideal solution for peer-to-peer transactions.
 
-For more information, see [BitcoinBlack.org](https://BitcoinBlack.org/) or read the [whitepaper](https://nano.org/en/whitepaper).
+For more information, see [Bitcoin.Black](https://Bitcoin.Black/) or read the [whitepaper](https://bitcoin.black/whitepaper/).
 
 ### Guides & Documentation
 
-* [White Paper](https://nano.org/en/whitepaper)
+* [White Paper](https://bitcoin.black/whitepaper/)
 * [Build Instructions](https://github.com/nanocurrency/raiblocks/wiki/Build-Instructions)
 * [Command Line Interface](https://github.com/nanocurrency/raiblocks/wiki/Command-line-interface)
 * [RPC Protocol](https://github.com/nanocurrency/raiblocks/wiki/RPC-protocol)
@@ -37,13 +34,14 @@ For more information, see [BitcoinBlack.org](https://BitcoinBlack.org/) or read 
 
 ### Links & Resources
 
-* [BitcoinBlack Website](https://nano.org)
-* [BitcoinBlack Roadmap](https://developers.nano.org/roadmap)
+* [BitcoinBlack Website](https://bitcoin.black)
+* [BitcoinBlack Roadmap](https://bitcoin.black/roadmap/)
+* [Community](https://bitcoinblack.net/community/)
 * [Discord Chat](https://chat.nano.org/)
 * [Reddit](https://reddit.com/r/nanocurrency)
 * [Medium](https://medium.com/nanocurrency)
-* [Twitter](https://twitter.com/nano)
-* [Forum](https://forum.raiblocks.net/)
+* [Twitter](https://twitter.com/bitcoinbio)
+* [Forum](https://bitcoinblack.net/forums/forum/bitcoin-black-forum/)
 * [GitHub wiki](https://github.com/nanocurrency/raiblocks/wiki)
 
 ### Want to Contribute?

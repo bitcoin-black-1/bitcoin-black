@@ -17,7 +17,7 @@ Fee free & Instant transactions are made over a secure decentralized network wit
 
 ### Key Features
 
-* BitcoinBlack utilizes a novel block-lattice architecture, unlike conventional blockchains used in many other cryptocurrencies.
+* BitcoinBlack utilizes block-lattice architecture, unlike conventional blockchains used in many other cryptocurrencies.
 * The network requires minimal resources, no high-power mining hardware, and can process high transaction throughput.
 * Offers instantaneous transactions with zero fees and unlimited scalability, making Bitcoin Black an ideal solution for peer-to-peer transactions.
 

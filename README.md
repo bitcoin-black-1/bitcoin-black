@@ -11,7 +11,7 @@
 ---
 
 BitcoinBlack is a community based currency focussed on a fair distribution and giving the power back to the people.
-Fee free & Instant transactions are made over a secure decentralized network.
+Fee free & Instant transactions are made over a secure decentralized network with very low energy output.
 
 ---
 
@@ -37,7 +37,7 @@ For more information, see [Bitcoin.Black](https://Bitcoin.Black/) or read the [w
 
 * [Bitcoin Black Official Website](https://bitcoin.black)
 * [Bitcoin Black Network Website](https://bitcoinblack.net)
-* [Block Exlorer](https://bitcoinblack.info)
+* [Block Explorer](https://bitcoinblack.info)
 * [BitcoinBlack Roadmap](https://bitcoin.black/roadmap/)
 * [Community](https://bitcoinblack.net/community/)
 * [Discord Chat](https://chat.nano.org/)

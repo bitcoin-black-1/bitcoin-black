@@ -26,12 +26,12 @@ For more information, see [Bitcoin.Black](https://Bitcoin.Black/) or read the [w
 ### Guides & Documentation
 
 * [White Paper](https://bitcoin.black/whitepaper/)
-* [Build Instructions](https://github.com/nanocurrency/raiblocks/wiki/Build-Instructions)
-* [Command Line Interface](https://github.com/nanocurrency/raiblocks/wiki/Command-line-interface)
-* [RPC Protocol](https://github.com/nanocurrency/raiblocks/wiki/RPC-protocol)
-* [Wallet Design](https://github.com/nanocurrency/raiblocks/wiki/Wallet-design)
-* [Block Lattice](https://github.com/nanocurrency/raiblocks/wiki/Block-lattice)
-* [Design Features](https://github.com/nanocurrency/raiblocks/wiki/Design-features)
+* [Build Instructions](https://github.com/bitcoin-black/bitcoin-black/wiki/Build-Instructions)
+* [Command Line Interface](https://github.com/bitcoin-black/bitcoin-black/wiki/Command-line-interface)
+* [RPC Protocol](https://github.com/bitcoin-black/bitcoin-black/wiki/RPC-protocol)
+* [Wallet Design](https://github.com/bitcoin-black/bitcoin-black/wiki/Wallet-design)
+* [Block Lattice](https://github.com/bitcoin-black/bitcoin-black/wiki/Block-lattice)
+* [Design Features](https://github.com/bitcoin-black/bitcoin-black/wiki/Design-features)
 
 ### Links & Resources
 
@@ -40,12 +40,10 @@ For more information, see [Bitcoin.Black](https://Bitcoin.Black/) or read the [w
 * [Block Explorer](https://bitcoinblack.info)
 * [BitcoinBlack Roadmap](https://bitcoin.black/roadmap/)
 * [Community](https://bitcoinblack.net/community/)
-* [Discord Chat](https://chat.nano.org/)
-* [Reddit](https://reddit.com/r/nanocurrency)
-* [Medium](https://medium.com/nanocurrency)
+* [Reddit](https://reddit.com/r/allaboardbitcoinblack)
 * [Twitter](https://twitter.com/bitcoinbio)
 * [Forum](https://bitcoinblack.net/forums/forum/bitcoin-black-forum/)
-* [GitHub wiki](https://github.com/nanocurrency/raiblocks/wiki)
+* [GitHub wiki](https://github.com/bitcoin-black/bitcoin-black/wiki)
 
 ### Want to Contribute?
 
@@ -53,5 +51,4 @@ Please see the [contributors guide](https://github.com/bitcoin-black/bitcoin-bla
 
 ### Contact us
 
-We want to hear about any trouble, success, delight, or pain you experience when
-using Bitcoin Black. Let us know by [filing an issue](https://github.com/bitcoin-black/bitcoin-black/issues), joining us in [reddit](https://reddit.com/r/allaboardbitcoinblack), or joining us in [Discord](https://chat..org/).
+We want to hear about your experience when using Bitcoin Black. Let us know by [filing an issue](https://github.com/bitcoin-black/bitcoin-black/issues), joining us in [reddit](https://reddit.com/r/allaboardbitcoinblack), or contacting [Support](https://bitcoinblack.net/support/).

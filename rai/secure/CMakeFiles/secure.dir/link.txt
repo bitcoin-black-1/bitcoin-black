@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsecure.a  CMakeFiles/secure.dir/plat/posix/working.cpp.o CMakeFiles/secure.dir/__/__/bootstrap_weights.cpp.o CMakeFiles/secure.dir/common.cpp.o CMakeFiles/secure.dir/blockstore.cpp.o CMakeFiles/secure.dir/ledger.cpp.o CMakeFiles/secure.dir/utility.cpp.o CMakeFiles/secure.dir/versioning.cpp.o
+/usr/bin/ranlib libsecure.a

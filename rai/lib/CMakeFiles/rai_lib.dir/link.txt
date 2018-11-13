@@ -1,0 +1,2 @@
+/usr/bin/ar qc librai_lib.a  CMakeFiles/rai_lib.dir/plat/linux/priority.cpp.o CMakeFiles/rai_lib.dir/plat/posix/perms.cpp.o CMakeFiles/rai_lib.dir/errors.cpp.o CMakeFiles/rai_lib.dir/blocks.cpp.o CMakeFiles/rai_lib.dir/interface.cpp.o CMakeFiles/rai_lib.dir/numbers.cpp.o CMakeFiles/rai_lib.dir/utility.cpp.o CMakeFiles/rai_lib.dir/work.cpp.o
+/usr/bin/ranlib librai_lib.a

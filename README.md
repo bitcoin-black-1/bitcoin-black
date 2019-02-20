@@ -51,4 +51,4 @@ Please see the [contributors guide](https://github.com/bitcoin-black/bitcoin-bla
 
 ### Contact us
 
-We want to hear about your experience when using Bitcoin Black. Let us know by [filing an issue](https://github.com/bitcoin-black/bitcoin-black/issues), joining us in [reddit](https://reddit.com/r/allaboardbitcoinblack), or contacting [Support](https://bitcoinblack.net/support/).
+We want to hear about your experience when using Bitcoin Black. Let us know by [filing an issue](https://github.com/bitcoin-black/bitcoin-black/issues) or contacting [Support](https://bitcoinblack.net/support/).
